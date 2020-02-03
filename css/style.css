@@ -17,4 +17,11 @@ body {
   margin-top: 15rem;
   height: 40rem; }
 
+a {
+  transition: all 4.3s ease-out;
+  transition-property: all;
+  transition-duration: 6.8s;
+  transition-timing-function: ease-out;
+  transition-delay: initial; }
+
 /*# sourceMappingURL=style.css.map */
