@@ -1,5 +1,5 @@
 body {
-  min-height: 50rem; }
+  font-size: 1rem; }
 
 .hot-pink {
   background-color: #EA178C; }
@@ -12,5 +12,9 @@ body {
 
 .hot-pink-green {
   color: #7FFF00; }
+
+.banner-beg-style {
+  margin-top: 15rem;
+  height: 40rem; }
 
 /*# sourceMappingURL=style.css.map */
