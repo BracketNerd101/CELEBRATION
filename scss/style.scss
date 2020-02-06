@@ -34,12 +34,30 @@ body {
     
 }
 
-
 .banner-beg-style {
 
-    // margin-top: 5rem;
-    
-    height: 30rem;
+    padding-top: 15rem;
+    height: 40rem;
+
+    .title-hero-space-bottom {
+
+        
+        margin-bottom: 4rem;
+      }
+
+      .title-hero-space-top {
+
+        margin-top: 4rem;
+        
+      }
+
+    .hero-card {
+
+    border-bottom: solid 14px #7FFF00;
+    border-top: solid 14px #7FFF00 ;
+  
+}
+
 }
 
 .great_title {

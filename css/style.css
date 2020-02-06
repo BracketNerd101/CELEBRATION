@@ -18,7 +18,15 @@ body {
   text-transform: uppercase; }
 
 .banner-beg-style {
-  height: 30rem; }
+  padding-top: 15rem;
+  height: 40rem; }
+  .banner-beg-style .title-hero-space-bottom {
+    margin-bottom: 4rem; }
+  .banner-beg-style .title-hero-space-top {
+    margin-top: 4rem; }
+  .banner-beg-style .hero-card {
+    border-bottom: solid 14px #7FFF00;
+    border-top: solid 14px #7FFF00; }
 
 .great_title {
   font-size: 7rem;
