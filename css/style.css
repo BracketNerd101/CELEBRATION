@@ -22,7 +22,14 @@ body {
 
 .great_title {
   font-size: 7rem;
-  color: #EA178C; }
+  color: #EA178C;
+  font-family: 'Teko', sans-serif;
+  font-size: 10rem; }
+
+.button_outline {
+  border: 1px solid #333333;
+  border-radius: 0px;
+  margin-top: 4rem; }
 
 a {
   transition: all 4.3s ease-out;

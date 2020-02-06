@@ -5,6 +5,9 @@ body {
     font-size: 1rem;
 }
 
+// font-family: 'Teko', sans-serif;
+// font-family: 'Lora', serif;
+
 .hot-pink {
     background-color : #EA178C;
 }
@@ -28,12 +31,14 @@ body {
 .header-capstyle {
 
     text-transform: uppercase;
+    
 }
 
 
 .banner-beg-style {
 
     // margin-top: 5rem;
+    
     height: 30rem;
 }
 
@@ -41,6 +46,15 @@ body {
 
     font-size: 7rem;
     color: #EA178C;
+    font-family: 'Teko', sans-serif;
+    font-size: 10rem;
+}
+
+.button_outline {
+
+    border: 1px solid #333333;
+    border-radius: 0px;
+    margin-top: 4rem;
 }
 
 a {
