@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css?family=Lora|Teko:400,600&display=swap");
 body {
   font-size: 1rem; }
 
@@ -13,9 +14,15 @@ body {
 .hot-pink-green {
   color: #7FFF00; }
 
+.header-capstyle {
+  text-transform: uppercase; }
+
 .banner-beg-style {
-  margin-top: 15rem;
-  height: 40rem; }
+  height: 30rem; }
+
+.great_title {
+  font-size: 7rem;
+  color: #EA178C; }
 
 a {
   transition: all 4.3s ease-out;
