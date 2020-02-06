@@ -1,0 +1,131 @@
+
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:700|Lora|Oswald:700|Roboto:500');
+
+body {
+
+min-height: 2200px;
+
+}
+/*font-family: 'Oswald', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Lora', serif;*/
+
+
+/*.nav_index_style {
+
+  z-index: 9000000000;
+
+}*/
+
+.cbp-af-header {
+  background-color: rgba(0, 0, 0, 0.8)
+}
+
+.header-nav-style {
+  color: #ffffff !important;
+}
+
+.link-nav-style {
+  color: #00d9a3 !important;
+}
+.navbar-toggle {
+
+  border: 0px;
+}
+
+.flat_style {
+
+  border-radius: 0px;
+}
+
+.flat_button{
+
+  border-radius: 0px;
+}
+
+.king_banner {
+
+  margin-top: 14rem;
+  height: 40rem;
+  background-image: url(../img/future_chess_player.jpg);
+  background-size: cover;
+  color: white;
+}
+
+.chess_intro_banner {
+
+  margin-top: 4rem;
+  height: inherit;
+  margin-bottom: 3rem;
+  margin-bottom: 4rem;
+}
+
+.intro_banner_text {
+
+  font-family: 'Oswald', sans-serif;
+  font-size: 3rem;
+
+}
+
+.container_spacing {
+
+  margin-top: auto;
+  margin-bottom: auto;
+
+}
+
+.header_style {
+
+  font-family: 'Oswald', sans-serif;
+  color: #777777;
+}
+
+.champ_header_style {
+
+  font-family: 'Josefin Sans', sans-serif;
+  color: #333333;
+}
+
+
+.jumbotron {
+
+  background-color: transparent;
+}
+
+.champ_title_font {
+
+    font-family: 'Lora', serif;
+
+}
+
+.header-nav-style {
+
+  font-size: 1.5rem;
+}
+
+.history_banner {
+
+  font-family: 'Oswald', sans-serif;
+
+}
+
+.champion_bg {
+
+  background-color: #DAA520;
+}
+
+.footer_base_style {
+  height: inherit;
+  margin-top: 3rem;
+
+}
+
+.footer-styles {
+
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #444444;
+  color: #f2f2f2 !important;
+  height:inherit;
+}

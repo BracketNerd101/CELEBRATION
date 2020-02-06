@@ -1,0 +1,121 @@
+
+
+
+.magnus_card {
+
+  height: 25rem;
+  background-image: url(../img/magnus.jpg);
+  background-size: cover;
+}
+
+
+.anand_card {
+
+  height: 25rem;
+  background-image: url(../img/anand.jpg);
+  background-size: cover;
+}
+
+.kramnik_card {
+
+  height: 25rem;
+  background-image: url(../img/kramnik.jpg);
+  background-size: cover;
+}
+
+.kasparov_card {
+
+  height: 25rem;
+  background-image: url(../img/kasparov.jpg);
+  background-size: cover;
+}
+
+
+.karpov_card {
+
+  height: 25rem;
+  background-image: url(../img/Karpov.png);
+  background-size: cover;
+}
+
+
+.bobby_card {
+
+  height: 25rem;
+  background-image: url(../img/bobby.jpg);
+  background-size: cover;
+}
+
+.spassky_card {
+
+  height: 25rem;
+  background-image: url(../img/Spassky.jpg);
+  background-size: cover;
+}
+
+.pet_card {
+
+  height: 25rem;
+  background-image: url(../img/Pet.jpg);
+  background-size: cover;
+}
+
+.Bot_card {
+
+  height: 25rem;
+  background-image: url(../img/Bot.jpg);
+  background-size: cover;
+}
+
+.alex_card {
+
+  height: 25rem;
+  background-image: url(../img/Alex.jpg);
+  background-size: cover;
+}
+.Tal_card {
+
+  height: 25rem;
+  background-image: url(../img/Tal001.jpg);
+  background-size: cover;
+}
+.Vas_card {
+
+  height: 25rem;
+  background-image: url(../img/smyslov.jpeg);
+  background-size: cover;
+}
+
+.Lask_card {
+
+  height: 25rem;
+  background-image: url(../img/lasker.jpg);
+  background-size: cover;
+}
+
+.capa_card {
+
+  height: 25rem;
+  background-image: url(../img/capa002.jpg);
+  background-size: cover;
+}
+.Euwe_card {
+
+  height: 25rem;
+  background-image: url(../img/Euwe.jpg);
+  background-size: cover;
+}
+
+.stienetz_card {
+
+  height: 35rem;
+  background-image: url(../img/Steinitz001.jpg);
+  background-size: cover;
+}
+
+.tort_card {
+
+  height: 35rem;
+  background-image: url(../img/zukertort.jpg);
+  background-size: cover;
+}
