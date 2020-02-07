@@ -17,6 +17,11 @@ body {
     color :  #EA178C;
 }
 
+.logo-font-style {
+
+    font-family: 'Lora', serif;
+}
+
 .hot-green {
 
     background-color : #7FFF00;
@@ -36,18 +41,31 @@ body {
 
 .banner-beg-style {
 
-    padding-top: 15rem;
-    height: 40rem;
+    padding-top: 19rem;
+    margin-bottom: auto;
+    height: 100vh;
 
     .title-hero-space-bottom {
 
         
-        margin-bottom: 4rem;
+        margin-bottom: 9rem;
+      }
+
+      .title-button {
+
+        margin-bottom: 9rem;
+        color: #333;
+      
+    }
+
+      .support-text-padding {
+
+        padding-left: 5rem
       }
 
       .title-hero-space-top {
 
-        margin-top: 4rem;
+        margin-top: 7rem;
         
       }
 
@@ -56,7 +74,7 @@ body {
     border-bottom: solid 14px #7FFF00;
     border-top: solid 14px #7FFF00 ;
   
-}
+   }
 
 }
 
@@ -68,11 +86,23 @@ body {
     font-size: 10rem;
 }
 
+.great_title_frog {
+
+    font-size: 7rem;
+    color: #EA178C;
+    font-family: 'Teko', sans-serif;
+    font-size: 13rem;
+    line-height: 5rem;
+    /* padding-top: 2rem; */
+    margin-bottom: 4rem;
+    background-color: #7FFF00;
+}
+
 .button_outline {
 
     border: 1px solid #333333;
     border-radius: 0px;
-    margin-top: 4rem;
+    margin-top: 2rem;
 }
 
 a {
@@ -85,3 +115,40 @@ a {
 
 
 }
+
+.spotlight-banner-lonni {
+
+    background-image: url('../img/johnson.jpg');
+    // background-color:  rgba(50, 205, 50, 0.9);;
+    background-size: cover;
+    height: 40rem;
+    width: 100%;
+    margin-bottom: auto;
+    margin-top: 7rem;
+
+
+}
+
+
+.title-row-placement {
+
+        margin-top: -3rem;
+        z-index: 20;
+    }
+
+    .spotlight-title-card {
+
+    text-transform: uppercase;
+    color: #EA178C ;
+    font-family: 'Teko', sans-serif;
+    font-weight: 500;
+    font-size: 6.2rem;
+    background: #fff;
+    padding-top: 1rem;
+    box-shadow:  0px 3px 15px rgba(0,0,0,0.2);
+    // padding-left: 2rem;
+    // padding-right: 2rem;
+
+    }
+
+
