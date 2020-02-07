@@ -5,6 +5,9 @@ body {
 .hot-pink {
   background-color: #EA178C; }
 
+.hot-pink-title-bg {
+  background-color: rgba(234, 23, 139, 0.515); }
+
 .hot-pink-text {
   color: #EA178C; }
 
@@ -21,7 +24,7 @@ body {
   text-transform: uppercase; }
 
 .banner-beg-style {
-  padding-top: 19rem;
+  padding-top: 30rem;
   margin-bottom: auto;
   height: 100vh; }
   .banner-beg-style .title-hero-space-bottom {
@@ -30,7 +33,9 @@ body {
     margin-bottom: 9rem;
     color: #333; }
   .banner-beg-style .support-text-padding {
-    padding-left: 5rem; }
+    padding-left: 5rem;
+    margin-bottom: 5rem;
+    font-size: 1.9rem; }
   .banner-beg-style .title-hero-space-top {
     margin-top: 7rem; }
   .banner-beg-style .hero-card {
@@ -63,13 +68,26 @@ a {
   transition-timing-function: ease-out;
   transition-delay: initial; }
 
+.banner-style {
+  display: inline-block;
+  vertical-align: middle;
+  max-width: 100%;
+  height: auto;
+  -ms-interpolation-mode: bicubic; }
+
 .spotlight-banner-lonni {
-  background-image: url("../img/johnson.jpg");
-  background-size: cover;
-  height: 80vh;
-  width: 100%;
+  background: url("../img/johnson.jpg") center/cover no-repeat;
   margin-bottom: auto;
-  margin-top: 7rem; }
+  margin-top: 25rem;
+  height: 70rem;
+  width: 100%; }
+  .spotlight-banner-lonni .inventor-callout {
+    margin-top: 3rem;
+    font-size: 13rem;
+    font-family: 'Teko', sans-serif;
+    color: #fff; }
+    .spotlight-banner-lonni .inventor-callout h4 {
+      font-size: 8rem; }
 
 .title-row-placement {
   margin-top: -3rem;
@@ -84,5 +102,8 @@ a {
   background: #fff;
   padding-top: 1rem;
   box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2); }
+
+.inventor-info {
+  margin-top: 7rem; }
 
 /*# sourceMappingURL=style.css.map */

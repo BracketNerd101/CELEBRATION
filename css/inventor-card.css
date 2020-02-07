@@ -1,0 +1,54 @@
+/*
+Error: Invalid CSS after "...ransition: all ": expected ";", was "@duration;"
+        on line 32 of scss/inventor-card.scss
+
+27:     }
+28: }
+29: 
+30: 
+31: .mc-transtition (@duration: .3s) {
+32:     -webkit-transition: all @duration;
+33:     -moz-transition: all @duration;
+34:     -ms-transition: all @duration;
+35:     -o-transition: all @duration;
+36:     transition: all @duration;
+37: }
+
+Backtrace:
+scss/inventor-card.scss:32
+/Library/Ruby/Gems/2.3.0/gems/sass-3.7.2/lib/sass/scss/parser.rb:1308:in `expected'
+/Library/Ruby/Gems/2.3.0/gems/sass-3.7.2/lib/sass/scss/parser.rb:1238:in `expected'
+/Library/Ruby/Gems/2.3.0/gems/sass-3.7.2/lib/sass/scss/parser.rb:1233:in `tok!'
+/Library/Ruby/Gems/2.3.0/gems/sass-3.7.2/lib/sass/scss/parser.rb:815:in `block in try_declaration'
+/Library/Ruby/Gems/2.3.0/gems/sass-3.7.2/lib/sass/scss/parser.rb:1284:in `rethrow'
+/Library/Ruby/Gems/2.3.0/gems/sass-3.7.2/lib/sass/scss/parser.rb:820:in `try_declaration'
+/Library/Ruby/Gems/2.3.0/gems/sass-3.7.2/lib/sass/scss/parser.rb:743:in `declaration_or_ruleset'
+/Library/Ruby/Gems/2.3.0/gems/sass-3.7.2/lib/sass/scss/parser.rb:708:in `block_child'
+/Library/Ruby/Gems/2.3.0/gems/sass-3.7.2/lib/sass/scss/parser.rb:697:in `block_contents'
+/Library/Ruby/Gems/2.3.0/gems/sass-3.7.2/lib/sass/scss/parser.rb:689:in `block'
+/Library/Ruby/Gems/2.3.0/gems/sass-3.7.2/lib/sass/scss/parser.rb:681:in `ruleset'
+/Library/Ruby/Gems/2.3.0/gems/sass-3.7.2/lib/sass/scss/parser.rb:707:in `block_child'
+/Library/Ruby/Gems/2.3.0/gems/sass-3.7.2/lib/sass/scss/parser.rb:700:in `block_contents'
+/Library/Ruby/Gems/2.3.0/gems/sass-3.7.2/lib/sass/scss/parser.rb:137:in `stylesheet'
+/Library/Ruby/Gems/2.3.0/gems/sass-3.7.2/lib/sass/scss/parser.rb:41:in `parse'
+/Library/Ruby/Gems/2.3.0/gems/sass-3.7.2/lib/sass/engine.rb:414:in `_to_tree'
+/Library/Ruby/Gems/2.3.0/gems/sass-3.7.2/lib/sass/engine.rb:389:in `_render_with_sourcemap'
+/Library/Ruby/Gems/2.3.0/gems/sass-3.7.2/lib/sass/engine.rb:307:in `render_with_sourcemap'
+/Library/Ruby/Gems/2.3.0/gems/sass-3.7.2/lib/sass/plugin/compiler.rb:462:in `update_stylesheet'
+/Library/Ruby/Gems/2.3.0/gems/sass-3.7.2/lib/sass/plugin/compiler.rb:215:in `block in update_stylesheets'
+/Library/Ruby/Gems/2.3.0/gems/sass-3.7.2/lib/sass/plugin/compiler.rb:209:in `each'
+/Library/Ruby/Gems/2.3.0/gems/sass-3.7.2/lib/sass/plugin/compiler.rb:209:in `update_stylesheets'
+/Library/Ruby/Gems/2.3.0/gems/sass-3.7.2/lib/sass/plugin/compiler.rb:294:in `watch'
+/Library/Ruby/Gems/2.3.0/gems/sass-3.7.2/lib/sass/plugin.rb:109:in `method_missing'
+/Library/Ruby/Gems/2.3.0/gems/sass-3.7.2/lib/sass/exec/sass_scss.rb:358:in `watch_or_update'
+/Library/Ruby/Gems/2.3.0/gems/sass-3.7.2/lib/sass/exec/sass_scss.rb:51:in `process_result'
+/Library/Ruby/Gems/2.3.0/gems/sass-3.7.2/lib/sass/exec/base.rb:50:in `parse'
+/Library/Ruby/Gems/2.3.0/gems/sass-3.7.2/lib/sass/exec/base.rb:18:in `parse!'
+/Library/Ruby/Gems/2.3.0/gems/sass-3.7.2/bin/sass:13:in `<top (required)>'
+/usr/local/bin/sass:22:in `load'
+/usr/local/bin/sass:22:in `<main>'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: Invalid CSS after \"...ransition: all \": expected \";\", was \"@duration;\"\A         on line 32 of scss/inventor-card.scss\A \A 27:     }\A 28: }\A 29: \A 30: \A 31: .mc-transtition (@duration: .3s) {\A 32:     -webkit-transition: all @duration;\A 33:     -moz-transition: all @duration;\A 34:     -ms-transition: all @duration;\A 35:     -o-transition: all @duration;\A 36:     transition: all @duration;\A 37: }"; }
