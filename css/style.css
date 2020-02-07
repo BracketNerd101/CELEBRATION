@@ -40,14 +40,12 @@ body {
 .great_title {
   font-size: 7rem;
   color: #EA178C;
-  font-family: 'Teko', sans-serif;
-  font-size: 10rem; }
+  font-family: 'Teko', sans-serif; }
 
 .great_title_frog {
   font-size: 7rem;
   color: #EA178C;
   font-family: 'Teko', sans-serif;
-  font-size: 13rem;
   line-height: 5rem;
   /* padding-top: 2rem; */
   margin-bottom: 4rem;
@@ -68,7 +66,7 @@ a {
 .spotlight-banner-lonni {
   background-image: url("../img/johnson.jpg");
   background-size: cover;
-  height: 40rem;
+  height: 80vh;
   width: 100%;
   margin-bottom: auto;
   margin-top: 7rem; }
