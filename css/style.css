@@ -103,7 +103,18 @@ a {
   padding-top: 1rem;
   box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2); }
 
-.inventor-info {
-  margin-top: 7rem; }
+.inventor-content {
+  margin-top: 5rem; }
+  .inventor-content .inventor-body-write {
+    margin-bottom: 10rem;
+    margin-top: 5rem;
+    padding-left: 3rem; }
+  .inventor-content .inventor-info {
+    margin-top: 7rem;
+    background: url("../img/three_water_gun.jpg") center/cover no-repeat;
+    margin-bottom: 10rem;
+    margin-top: 5rem;
+    height: 20rem;
+    width: 40%; }
 
 /*# sourceMappingURL=style.css.map */

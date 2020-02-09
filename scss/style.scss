@@ -199,12 +199,39 @@ a {
 
     }
 
-    .inventor-info {
+
+    .inventor-content {
+
+        margin-top: 5rem;
+
+
+
+
+        .inventor-body-write {
+
+            margin-bottom: 10rem;
+            margin-top: 5rem;
+            padding-left: 3rem;
+
+        }
+
+
+        .inventor-info {
 
         margin-top: 7rem;
+        background: url('../img/three_water_gun.jpg') center / cover no-repeat;
+        // background-color:  rgba(50, 205, 50, 0.9);;
+        // background-size: cover;
+        margin-bottom: 10rem;
+        margin-top: 5rem;
+        height: 20rem;
+        width: 40%;
 
-        
+        }
+
 
     }
+
+    
 
 
