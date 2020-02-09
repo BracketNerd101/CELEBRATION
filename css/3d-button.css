@@ -8,7 +8,7 @@
 .card {
   grid-area: 1 / 1;
   /* height: 200px; */
-  width: 400px;
+  /* width: 400px; */
   transform: translateX(10px) rotateY(25deg) rotateX(10deg);
   background: rgb(234, 23, 140);
   display: flex;
