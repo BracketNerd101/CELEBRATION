@@ -170,6 +170,9 @@ a {
         h4 {
 
             font-size: 8rem;
+            text-transform: uppercase;
+            font-family: 'Teko', sans-serif;
+            
 
         }
     }
@@ -204,14 +207,27 @@ a {
 
         margin-top: 5rem;
 
+      .content-border-style {
 
+        border-top: 8px solid #7FFF00;
+      }
 
 
         .inventor-body-write {
 
             margin-bottom: 10rem;
-            margin-top: 5rem;
+            // margin-top: 5rem;
             padding-left: 3rem;
+            padding-top: 5rem;
+
+
+
+            .write-up-title {
+
+                    font-family: 'Teko', sans-serif;
+                    text-transform: uppercase;
+
+            }
 
         }
 

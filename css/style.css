@@ -87,7 +87,9 @@ a {
     font-family: 'Teko', sans-serif;
     color: #fff; }
     .spotlight-banner-lonni .inventor-callout h4 {
-      font-size: 8rem; }
+      font-size: 8rem;
+      text-transform: uppercase;
+      font-family: 'Teko', sans-serif; }
 
 .title-row-placement {
   margin-top: -3rem;
@@ -105,9 +107,14 @@ a {
 
 .inventor-content {
   margin-top: 5rem; }
+  .inventor-content .content-border-style {
+    border-top: 8px solid #7FFF00; }
   .inventor-content .inventor-body-write {
     margin-bottom: 10rem;
-    margin-top: 5rem;
-    padding-left: 3rem; }
+    padding-left: 3rem;
+    padding-top: 5rem; }
+    .inventor-content .inventor-body-write .write-up-title {
+      font-family: 'Teko', sans-serif;
+      text-transform: uppercase; }
 
 /*# sourceMappingURL=style.css.map */
