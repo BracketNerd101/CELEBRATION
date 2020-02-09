@@ -2,6 +2,12 @@
 body {
   font-size: 1rem; }
 
+.teko-text {
+  font-family: 'Teko', sans-serif; }
+
+.slab-text {
+  font-family: 'Lora', serif; }
+
 .hot-pink {
   background-color: #EA178C; }
 
@@ -10,6 +16,10 @@ body {
 
 .hot-pink-text {
   color: #EA178C; }
+
+.d3-card-weight {
+  font-size: 60px;
+  font-weight: 900; }
 
 .logo-font-style {
   font-family: 'Lora', serif; }
@@ -24,7 +34,7 @@ body {
   text-transform: uppercase; }
 
 .banner-beg-style {
-  padding-top: 30rem;
+  padding-top: 15rem;
   margin-bottom: auto;
   height: 100vh; }
   .banner-beg-style .title-hero-space-bottom {
@@ -33,13 +43,16 @@ body {
     margin-bottom: 9rem;
     color: #333; }
   .banner-beg-style .support-text-padding {
-    padding-left: 5rem;
-    margin-bottom: 5rem;
+    margin-bottom: 2rem;
     font-size: 1.9rem; }
   .banner-beg-style .title-hero-space-top {
     margin-top: 7rem; }
   .banner-beg-style .hero-card {
     border-bottom: solid 14px #7FFF00;
+    border-top: solid 14px #7FFF00; }
+  .banner-beg-style .hero-card-foot {
+    border-bottom: solid 14px #7FFF00; }
+  .banner-beg-style .hero-card-head {
     border-top: solid 14px #7FFF00; }
 
 .great_title {
@@ -76,10 +89,10 @@ a {
   -ms-interpolation-mode: bicubic; }
 
 .spotlight-banner-lonni {
-  background: url("../img/johnson.jpg") center/cover no-repeat;
+  background: url("../img/lonni-product.png") center/cover no-repeat;
   margin-bottom: auto;
-  margin-top: 25rem;
-  height: 70rem;
+  margin-top: 1rem;
+  height: 50rem;
   width: 100%; }
   .spotlight-banner-lonni .inventor-callout {
     margin-top: 3rem;
