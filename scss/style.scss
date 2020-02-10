@@ -206,10 +206,91 @@ a {
     }
 }
 
+.spotlight-banner-nhl {
+
+    background: url('../img/bw_2.jpg') center / cover no-repeat;
+    // background-color:  rgba(50, 205, 50, 0.9);;
+    // background-size: cover;
+    margin-bottom: auto;
+    margin-top: 22rem;
+    height: 50rem;
+    width: 100%;
+
+    .inventor-callout {
+
+        margin-top: 3rem;
+        font-size: 13rem;
+        font-family: 'Teko', sans-serif;
+        color: #fff;
+
+    h4 {
+
+            font-size: 8rem;
+            text-transform: uppercase;
+            font-family: 'Teko', sans-serif;
+            
+        }
+    }
+}
+
+.spotlight-banner-doctor {
+
+    background: url('../img/dr_jackson.jpg') center / cover no-repeat;
+    // background-color:  rgba(50, 205, 50, 0.9);;
+    // background-size: cover;
+    margin-bottom: auto;
+    margin-top: 22rem;
+    height: 50rem;
+    width: 100%;
+
+    .inventor-callout {
+
+        margin-top: 3rem;
+        font-size: 13rem;
+        font-family: 'Teko', sans-serif;
+        color: #fff;
+
+    h4 {
+
+            font-size: 8rem;
+            text-transform: uppercase;
+            font-family: 'Teko', sans-serif;
+            
+        }
+    }
+}
+
+.spotlight-banner-computer {
+
+    background: url('../img/super_comp.jpg') center / cover no-repeat;
+    // background-color:  rgba(50, 205, 50, 0.9);;
+    // background-size: cover;
+    margin-bottom: auto;
+    margin-top: 22rem;
+    height: 50rem;
+    width: 100%;
+
+    .inventor-callout {
+
+        margin-top: 3rem;
+        font-size: 13rem;
+        font-family: 'Teko', sans-serif;
+        color: #fff;
+
+    h4 {
+
+            font-size: 8rem;
+            text-transform: uppercase;
+            font-family: 'Teko', sans-serif;
+            
+        }
+    }
+}
+
 
 .title-row-placement {
 
-        margin-top: -3rem;
+        margin-top: -5rem;
         z-index: 20;
     }
 
