@@ -91,7 +91,7 @@ a {
 .spotlight-banner-lonni {
   background: url("../img/lonni-product.png") center/cover no-repeat;
   margin-bottom: auto;
-  margin-top: 22rem;
+  margin-top: 12rem;
   height: 50rem;
   width: 100%; }
   .spotlight-banner-lonni .inventor-callout {
@@ -107,7 +107,7 @@ a {
 .spotlight-banner-nhl {
   background: url("../img/bw_2.jpg") center/cover no-repeat;
   margin-bottom: auto;
-  margin-top: 22rem;
+  margin-top: 12rem;
   height: 50rem;
   width: 100%; }
   .spotlight-banner-nhl .inventor-callout {
@@ -123,7 +123,7 @@ a {
 .spotlight-banner-doctor {
   background: url("../img/dr_jackson.jpg") center/cover no-repeat;
   margin-bottom: auto;
-  margin-top: 22rem;
+  margin-top: 12rem;
   height: 50rem;
   width: 100%; }
   .spotlight-banner-doctor .inventor-callout {
@@ -139,7 +139,7 @@ a {
 .spotlight-banner-computer {
   background: url("../img/comp.jpg") center/cover no-repeat;
   margin-bottom: auto;
-  margin-top: 22rem;
+  margin-top: 12rem;
   height: 50rem;
   width: 100%; }
   .spotlight-banner-computer .inventor-callout {
@@ -167,12 +167,11 @@ a {
   box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2); }
 
 .inventor-content {
-  margin-top: 5rem; }
+  margin-top: 2rem; }
   .inventor-content .content-border-style {
     border-top: 8px solid #7FFF00; }
   .inventor-content .inventor-body-write {
     margin-bottom: 4rem;
-    padding-left: 3rem;
     padding-top: 5rem; }
     .inventor-content .inventor-body-write .write-up-title {
       font-family: 'Teko', sans-serif;
