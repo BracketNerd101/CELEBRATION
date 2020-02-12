@@ -91,7 +91,7 @@ a {
 .spotlight-banner-lonni {
   background: url("../img/lonni-product.png") center/cover no-repeat;
   margin-bottom: auto;
-  margin-top: 12rem;
+  margin-top: 19rem;
   height: 50rem;
   width: 100%; }
   .spotlight-banner-lonni .inventor-callout {
@@ -180,12 +180,17 @@ a {
 .footer-inventor {
   width: 100%;
   height: inherit; }
+  .footer-inventor li {
+    padding-top: 2rem;
+    font-size: 1.3rem; }
+  .footer-inventor .hero-card-head {
+    border-top: solid 14px #7FFF00; }
   .footer-inventor .footer-links-padding {
     padding-top: 2rem;
     padding-bottom: 6rem; }
   .footer-inventor .footer-subheader {
     padding-top: 2rem;
-    padding-bottom: 5rem; }
+    padding-bottom: 1rem; }
   .footer-inventor .footer-link-style {
     list-style-type: none; }
 
