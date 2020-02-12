@@ -182,7 +182,8 @@ a {
   height: inherit; }
   .footer-inventor li {
     padding-top: 2rem;
-    font-size: 1.3rem; }
+    font-size: 1.3rem;
+    text-align: left; }
   .footer-inventor .hero-card-head {
     border-top: solid 14px #7FFF00; }
   .footer-inventor .footer-links-padding {
