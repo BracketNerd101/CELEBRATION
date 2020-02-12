@@ -339,3 +339,25 @@ a {
         }
 
     }
+
+.footer-inventor {
+
+    width: 100%;
+    height: inherit;
+
+    .footer-links-padding {
+
+        padding-top: 2rem;
+        padding-bottom: 6rem;
+    }
+
+    .footer-subheader {
+
+        padding-top: 2rem;
+        padding-bottom: 5rem;
+    }
+
+    .footer-link-style {
+        list-style-type: none;
+    }
+}

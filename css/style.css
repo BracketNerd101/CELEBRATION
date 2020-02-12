@@ -177,4 +177,16 @@ a {
       font-family: 'Teko', sans-serif;
       text-transform: uppercase; }
 
+.footer-inventor {
+  width: 100%;
+  height: inherit; }
+  .footer-inventor .footer-links-padding {
+    padding-top: 2rem;
+    padding-bottom: 6rem; }
+  .footer-inventor .footer-subheader {
+    padding-top: 2rem;
+    padding-bottom: 5rem; }
+  .footer-inventor .footer-link-style {
+    list-style-type: none; }
+
 /*# sourceMappingURL=style.css.map */
